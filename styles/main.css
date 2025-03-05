@@ -554,10 +554,6 @@ ol {
   }
 }
 /* footer starts */
-html,
-body {
-  margin: 0;
-}
 
 #footer {
   position: relative;

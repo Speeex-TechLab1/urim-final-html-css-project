@@ -45,7 +45,7 @@
 #values p {
   color: #ffbbe6;
 }
-/* how-we-work starts */
+
 #how-we-work {
   background-color: var(--white-color) !important;
 }
@@ -54,7 +54,6 @@
   color: #d02d90;
   font-weight: 500;
 }
-/* team section starts */
 .team-section {
   padding: 60px 0;
 }
